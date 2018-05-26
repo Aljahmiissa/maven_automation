@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [automation suite]">
+  <test thread-count="5" name="ff test(failed)">
+    <parameter name="Browser" value="firefox"/>
+    <classes>
+      <class name="day12_xmlsuite.parallel_testing">
+        <methods>
+          <include name="openbrowser"/>
+          <include name="closeBrowser"/>
+          <include name="testScenario"/>
+        </methods>
+      </class> <!-- day12_xmlsuite.parallel_testing -->
+    </classes>
+  </test> <!-- ff test(failed) -->
+</suite> <!-- Failed suite [automation suite] -->

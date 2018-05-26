@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test thread-count="5" name="MavenAutomation(failed)">
+    <classes>
+      <class name="HomeWork.actionitem6_review">
+        <methods>
+          <include name="closedriver"/>
+          <include name="defineBrowser"/>
+          <include name="testcase3"/>
+        </methods>
+      </class> <!-- HomeWork.actionitem6_review -->
+    </classes>
+  </test> <!-- MavenAutomation(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

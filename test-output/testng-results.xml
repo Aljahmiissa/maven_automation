@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="automation suite" duration-ms="20195" started-at="2018-05-20T16:32:10Z" finished-at="2018-05-20T16:32:30Z">
+    <groups>
+    </groups>
+    <test name="Chrome Test" duration-ms="20195" started-at="2018-05-20T16:32:10Z" finished-at="2018-05-20T16:32:30Z">
+      <class name="day_13.ExpressTest">
+        <test-method status="PASS" signature="defineBrowser(java.lang.String)[pri:0, instance:day_13.ExpressTest@527740a2]" name="defineBrowser" is-config="true" duration-ms="3129" started-at="2018-05-20T16:32:07Z" finished-at="2018-05-20T16:32:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- defineBrowser -->
+        <test-method status="PASS" signature="methodName(java.lang.reflect.Method)[pri:0, instance:day_13.ExpressTest@527740a2]" name="methodName" is-config="true" duration-ms="4" started-at="2018-05-20T16:32:10Z" finished-at="2018-05-20T16:32:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void day_13.ExpressTest.expressCheckout() throws java.lang.InterruptedException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method status="PASS" signature="expressCheckout()[pri:0, instance:day_13.ExpressTest@527740a2]" name="expressCheckout" duration-ms="19889" started-at="2018-05-20T16:32:10Z" finished-at="2018-05-20T16:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- expressCheckout -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:day_13.ExpressTest@527740a2]" name="endTest" is-config="true" duration-ms="2" started-at="2018-05-20T16:32:30Z" finished-at="2018-05-20T16:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="methodName(java.lang.reflect.Method)[pri:0, instance:day_13.ExpressTest@527740a2]" name="methodName" is-config="true" duration-ms="0" started-at="2018-05-20T16:32:30Z" finished-at="2018-05-20T16:32:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void day_13.ExpressTest.addQuantitiy() throws java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodName -->
+        <test-method status="PASS" signature="addQuantitiy()[pri:0, instance:day_13.ExpressTest@527740a2]" name="addQuantitiy" duration-ms="288" started-at="2018-05-20T16:32:30Z" depends-on-methods="day_13.ExpressTest.expressCheckout" finished-at="2018-05-20T16:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addQuantitiy -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:day_13.ExpressTest@527740a2]" name="endTest" is-config="true" duration-ms="0" started-at="2018-05-20T16:32:30Z" finished-at="2018-05-20T16:32:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="endsuite()[pri:0, instance:day_13.ExpressTest@527740a2]" name="endsuite" is-config="true" duration-ms="1162" started-at="2018-05-20T16:32:30Z" finished-at="2018-05-20T16:32:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endsuite -->
+      </class> <!-- day_13.ExpressTest -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- automation suite -->
+</testng-results>

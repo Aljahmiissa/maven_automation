@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="automation suite" >
+       <parameter name = "Browser" value = "Chrome"/>
+    <test name="Chrome Test">
+        <classes>
+            <class name="day_13.ExpressTest"/>
+        </classes>
+    </test>
+</suite>

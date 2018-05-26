@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="automation suite" parallel="none">
+    <test name="regression test">
+        <classes>
+            <class name="day12_xmlsuite.actionitem6_review"/>
+            <class name="day12_xmlsuite.actionitem_inclass"/>
+
+
+        </classes>
+    </test>
+</suite>
