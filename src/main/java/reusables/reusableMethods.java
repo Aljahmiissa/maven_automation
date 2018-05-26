@@ -85,7 +85,7 @@ public class reusableMethods {
 
         public static void scroll (WebDriver driver, String locator, String uservalue) {
             JavascriptExecutor jse = (JavascriptExecutor)  driver;
-            jse.executeScript(uservalue);
+            jse.executeScript(uservalue);//
 
         }
     }
