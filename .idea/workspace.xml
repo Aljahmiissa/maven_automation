@@ -2,117 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0578dfea-ce2e-452f-a44a-e6da9c6d6f0e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MavenAutomation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reusables/reusableMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/reusables/reusableMethods_report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork/Actionitem_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork/actionitem6_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork/actionitem_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork/actionitem_7rev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjectModal/Google/google_homepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjectModal/Google/google_searchpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10/actionitem_inclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day10/count_tabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day11/Extent_HTML_Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_xmlsuite/Extent_HTML_Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_xmlsuite/Testsuites.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_xmlsuite/actionitem6_review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_xmlsuite/actionitem_inclass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_xmlsuite/count_tabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_xmlsuite/parallel_testing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day12_xmlsuite/parallelsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day9_testng/google_testNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_13/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_13/ExpressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day_13/testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reusables/reusableMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/reusables/reusableMethods_report.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/HomeWork/actionitem6_review.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/HomeWork/actionitem_7rev.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day10/actionitem_inclass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day10/count_tabs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day11/Extent_HTML_Report.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day12_xmlsuite/Extent_HTML_Report.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day12_xmlsuite/Testsuites.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day12_xmlsuite/actionitem6_review.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day12_xmlsuite/actionitem_inclass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day12_xmlsuite/count_tabs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day12_xmlsuite/parallel_testing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day12_xmlsuite/parallelsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day9_testng/google_testNG.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day_13/AbstractClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day_13/ExpressTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/day_13/testsuite.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/MavenAutomation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/MavenAutomation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/Default Suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/automation suite/Chrome Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/automation suite/Chrome Test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/automation suite/ff test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/automation suite/ff test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/automation suite/regression test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/automation suite/regression test.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/automation suite/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-HomeWork.Actionitem_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-HomeWork.actionitem6_review.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-HomeWork.actionitem_7rev.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day10.actionitem_inclass.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day10.count_tabs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day11.Extent_HTML_Report.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day12_xmlsuite.Extent_HTML_Report.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day12_xmlsuite.actionitem6_review.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day12_xmlsuite.actionitem_inclass.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day12_xmlsuite.parallel_testing.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day9_testng.google_testNG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-day_13.ExpressTest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/MavenAutomation.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/Default Suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/Chrome Test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/classes.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/ff test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/groups.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/methods-alphabetical.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/methods-not-run.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/methods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/regression test.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/reporter-output.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/testng.xml.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/automation suite/toc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -146,8 +36,8 @@
       <file leaf-file-name="reusableMethods.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/reusables/reusableMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="583">
-              <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="498">
+              <caret line="87" column="43" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -212,7 +102,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/day9_testng.java" />
-        <option value="$PROJECT_DIR$/src/main/java/reusables/reusableMethods.java" />
         <option value="$PROJECT_DIR$/src/test/java/day9_testng/google_testNG.java" />
         <option value="$PROJECT_DIR$/src/test/java/day10/count_tabs.java" />
         <option value="$PROJECT_DIR$/src/test/java/day10/actionitem_inclass.java" />
@@ -236,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/main/java/PageObjectModal/Google/google_homepage.java" />
         <option value="$PROJECT_DIR$/src/test/java/day_13/AbstractClass.java" />
         <option value="$PROJECT_DIR$/src/test/java/PageObjectModal/Google/google_homepage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/reusables/reusableMethods.java" />
       </list>
     </option>
   </component>
@@ -600,6 +490,14 @@
       <option name="presentableId" value="Default" />
       <updated>1525539438174</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit from intelliji">
+      <created>1527350643003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1527350643003</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -696,6 +594,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit from intelliji" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit from intelliji" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/day12_xmlsuite/Testsuites.xml">
@@ -896,8 +798,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/reusables/reusableMethods.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="92" lean-forward="true" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="498">
+          <caret line="87" column="43" selection-start-line="87" selection-start-column="43" selection-end-line="87" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
